@@ -16,7 +16,11 @@ This portfolio showcases my academic projects, bioinformatics analyses, laborato
 
 ### BRCA1 Gene Analysis
 
-Project in progress.
+### BRCA1: Gene and Protein Analysis
+
+Scientific review of the BRCA1 gene, protein function, DNA repair mechanisms, molecular interactions, and its clinical significance in hereditary cancer.
+
+[View Project](./BRCA1-Gene-Analysis.md)
 
 ## Certifications
 
